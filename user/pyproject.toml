@@ -7,17 +7,7 @@ authors = ["ryusei-iki <0516.iki@gmail.com>"]
 [tool.poetry.dependencies]
 python = ">=3.9,<3.12"
 numpy = "^1.24.2"
-jax = "^0.4.3"
-jaxlib = "^0.4.3"
-jupyter = "^1.0.0"
-jupyterlab = "3.4.7"
-matplotlib = "^3.6.3"
-scikit-learn = "^1.2.1"
-tqdm = "^4.64.1"
-torch = "^1.13.1"
-scipy = "^1.10.0"
-flake8 = "5.0.4"
-autopep8 = "1.7.0"
+
 
 [tool.poetry.dev-dependencies]
 
